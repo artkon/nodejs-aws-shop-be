@@ -17,10 +17,10 @@
     },
     "homepage": "https://github.com/artkon/nodejs-aws-shop-be#readme",
     "dependencies": {
-      "aws-cdk-lib": "^2.104.0"
+      "aws-cdk-lib": "2.110.0"
     },
     "devDependencies": {
-      "aws-cdk": "^2.104.0",
-      "typescript": "^5.2.2"
+      "aws-cdk": "2.110.0",
+      "typescript": "5.2.2"
     }
   }
